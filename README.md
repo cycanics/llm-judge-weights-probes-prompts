@@ -14,7 +14,7 @@ This repository holds the method, tables and confidence intervals behind two art
 
 **Read first**
 
-- [article 1](https://cycanics.github.io/articles/weights-vs-probe/): "I edited a production LLM's weights almost-by-hand. It worked. A logistic regression did the same job better."
+- [article 1](https://cycanics.github.io/articles/weights-vs-probe/): "A production LLM's weights edited almost-by-hand. It worked. A logistic regression did the same job better."
 - [article 2](https://cycanics.github.io/articles/prompt-optimization-gap/): "Prompt optimization for an LLM judge: how to see how much accuracy your prompt leaves unused, and when to stop"
 
 **Contents**
